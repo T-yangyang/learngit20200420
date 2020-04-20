@@ -1,4 +1,4 @@
 git is a version control system(1 update)
 git is free software(2 update)
 git 3 line
-Creating a new branch is quick.
+new Creating a new branch is quick.
